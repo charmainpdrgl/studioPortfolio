@@ -12,3 +12,5 @@ We looked over their code - took notes on what they could improve on as well as 
 They have not used Github before therefore we emailed them to ask them to create their own Github accounts. Erica had already created a repository for the project. Once we added them to the repository, we asked them to push their code on Github - sent them some resource links to follow.
 
 On the 10th of August, we had our official meeting where we actually talked about the requirements they wanted for their website. But first we taught them the basic commands to pull and push their code into Github - we made sure to make them aware of the merge confilcts that could happen if they don't use the commands when needed. We went through the questions that we had (shown in the image below) so that we could further understand what they want as our clients. We also talked about our communication channel that we will be using for easier contacting as well as video calls / screen sharing incase we had to go into lockdown again. We decided on Teams.
+
+![MeetingQuestions]({{ site.url }}{{ site.baseurl }}/evidence/sprint1/meetingQuestions.png)
