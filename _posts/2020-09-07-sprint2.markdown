@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Sprint #2"
+date:   2020-09-07
+---
+For this sprint, I worked on figuring out how to split the code into reusable components as we talked about at the start of the sprint with the clients. From what I found, you have to convert the code into Vue.js to be able to split the code.
+
+I spent a few weeks just looking and following Vue.js tutorials so I could have a better understanding since I haven't used it before. I didn't want to mess their existing code up so I followed a tutorial first and created a new project just for practicing.
+
+[Tutorial #1](https://code-maze.com/vue-js-series/){:target="_blank"}
+The first tutorial I followed didn't really go well. I got up to the the Routing and Navigation part of the tutorial but nothing was showing up on my page after following the instructions.
+![IndexHTMLFile]({{ site.url }}{{ site.baseurl }}/evidence/sprint2/index.png)
+
+[Tutorial #2](https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase){:target="_blank"}
+I've found another Vue.js tutorial that also uses Firebase. Since we're also learning about Firebase authentication, I thought this would be a very helpful tutorial. But the same problem occurred, around the end of the tutorial, I tried to run the app but it didn't show anything. When I ran the first initial set-up, the default Vue.js webpage was showing up but from then on, nothing seemed to be showing which was frustrating because me and Erica were having the same problem.
+![IndexHTMLFile]({{ site.url }}{{ site.baseurl }}/evidence/sprint2/vue-appIndex.png)
+
+When we had our last meeting (just for this Sprint) with the clients, along with their teacher, we established that they didn't want the code to be converted to Vue.js as well as to divide the code into reusable components because it seemed like they didn't have time to do that, there were more important things they wanted to achieve such as implementing Airtable into their project. Instead, they wanted us to just start implementing Firebase authentication as well as to start creating the Mobile App.
+
+Another thing we did during this sprint is we taught the clients how to git branch on one of our meetings. We made sure to explain to them that this helps prevent git conflicts as well as mention the 2 ways we could create a new branch - in the terminal and in Github. We helped them create their own git branches since we were all working on different parts of the project. We also reminded them that git pulling and pushing is still very important when they do something on the project repository.
+![GitBranches]({{ site.url }}{{ site.baseurl }}/evidence/sprint2/branches.png)
